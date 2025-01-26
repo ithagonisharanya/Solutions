@@ -1,0 +1,4 @@
+interface Lamda
+{
+void show();
+}
